@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/invison-mobile-store/static/css/main.b5d214ce.chunk.css",
+    "main.js": "/invison-mobile-store/static/js/main.cce3f235.chunk.js",
+    "main.js.map": "/invison-mobile-store/static/js/main.cce3f235.chunk.js.map",
+    "runtime-main.js": "/invison-mobile-store/static/js/runtime-main.2cd28ddc.js",
+    "runtime-main.js.map": "/invison-mobile-store/static/js/runtime-main.2cd28ddc.js.map",
+    "static/css/2.11829350.chunk.css": "/invison-mobile-store/static/css/2.11829350.chunk.css",
+    "static/js/2.ff99e34e.chunk.js": "/invison-mobile-store/static/js/2.ff99e34e.chunk.js",
+    "static/js/2.ff99e34e.chunk.js.map": "/invison-mobile-store/static/js/2.ff99e34e.chunk.js.map",
+    "index.html": "/invison-mobile-store/index.html",
+    "precache-manifest.37f790abb471dc780d0acdba63672a2c.js": "/invison-mobile-store/precache-manifest.37f790abb471dc780d0acdba63672a2c.js",
+    "service-worker.js": "/invison-mobile-store/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/invison-mobile-store/static/css/2.11829350.chunk.css.map",
+    "static/css/main.b5d214ce.chunk.css.map": "/invison-mobile-store/static/css/main.b5d214ce.chunk.css.map",
+    "static/js/2.ff99e34e.chunk.js.LICENSE.txt": "/invison-mobile-store/static/js/2.ff99e34e.chunk.js.LICENSE.txt",
+    "static/media/invision.png": "/invison-mobile-store/static/media/invision.300494e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cd28ddc.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.ff99e34e.chunk.js",
+    "static/css/main.b5d214ce.chunk.css",
+    "static/js/main.cce3f235.chunk.js"
+  ]
+}
