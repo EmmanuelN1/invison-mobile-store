@@ -1,0 +1,46 @@
+ :root{
+   --mainBlue:#2a2a72;
+   --lightBlue:#009ffd;
+   --mainWhite:#f3f3f3;
+   --mainYellow:#ffa400;
+ }
+
+ body{
+   font-family: 'trebuchet' !important ; /*It overwrites the bootstrap and makes the bootstrap*/
+   background:#4a4a4B !important;
+   color: #000 !important;
+ }
+
+.text-title{
+  font-family:'Passero';
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+
+.text-blue{
+  color:var(--mainBlue);
+}
+
+.text-bright{
+   color: var(--lightBlue);
+}
+
+.btn-black{
+  background:transparent;
+  text-transform: capitalize;
+  font-size: 0.85rem !important;
+  color:#000;
+  border-radius: .2rem !important;
+  border: 0.1rem solid black !important;
+}
+.btn-black:hover{
+  background: #000 !important;
+  color:#fff !important;
+}
+
+
+.cart-icon{
+  cursor: pointer;
+  font-size:1.2rem;
+  color:#000;
+}
