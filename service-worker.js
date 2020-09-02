@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/invison-mobile-store/precache-manifest.9de3d62601091d26070184b103d2acd9.js"
+  "/invison-mobile-store/precache-manifest.139c7f0acf82d8dac5d10fed0dd37ff9.js"
 );
 
 self.addEventListener('message', (event) => {
