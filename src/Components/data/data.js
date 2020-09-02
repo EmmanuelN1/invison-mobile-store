@@ -65,7 +65,7 @@ export const storeProducts = [
 {
     id:6,
     title:"Xiaomi redmi 7",
-    img: "./images/Xiaomi.pnghttps://www.transparentpng.com/thumb/xiaomi-redmi/4ORUoz-white-xiaomi-redmi-clipart-phone-mobile.png",
+    img: "https://www.pngitem.com/pimgs/m/509-5098240_xiaomi-redmi-note-7-red-hd-png-download.png",
     price:60,
     company: 'Xiaomi',
     info:"Redmi is a sub-brand owned by the Chinese electronics company Xiaomi. It was first announced in July 2013 as a budget smartphone line, and became a separate sub-brand of Xiaomi in 2019 with entry-level and mid-range devices, while Xiaomi itself produces upper-range and flagship Mi phones.Featured snippet from the web Redmi is a sub-brand owned by the Chinese electronics company Xiaomi. It was first announced in July 2013 as a budget smartphone line, and became a separate sub-brand of Xiaomi in 2019 with entry-level and mid-range devices, while Xiaomi itself produces upper-range and flagship Mi phones.",
@@ -152,7 +152,7 @@ export const storeProducts = [
     {
         id:13,
         title:"Xiaomi redmi 7",
-        img: "./images/Xiaomi.pnghttps://www.transparentpng.com/thumb/xiaomi-redmi/4ORUoz-white-xiaomi-redmi-clipart-phone-mobile.png",
+        img: "https://www.pngitem.com/pimgs/m/509-5098240_xiaomi-redmi-note-7-red-hd-png-download.png",
         price:60,
         company: 'Xiaomi',
         info:"Redmi is a sub-brand owned by the Chinese electronics company Xiaomi. It was first announced in July 2013 as a budget smartphone line, and became a separate sub-brand of Xiaomi in 2019 with entry-level and mid-range devices, while Xiaomi itself produces upper-range and flagship Mi phones.Featured snippet from the web Redmi is a sub-brand owned by the Chinese electronics company Xiaomi. It was first announced in July 2013 as a budget smartphone line, and became a separate sub-brand of Xiaomi in 2019 with entry-level and mid-range devices, while Xiaomi itself produces upper-range and flagship Mi phones.",
