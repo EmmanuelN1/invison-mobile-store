@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd6878c89a966153b29829d82dc7528d",
+    "revision": "83e2a81dbebd335d436ea6c1a4d53a20",
     "url": "/invison-mobile-store/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invison-mobile-store/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "8410cd60de1bf5a3002f",
+    "revision": "e43b01ccaae4ef997cda",
     "url": "/invison-mobile-store/static/css/main.b5d214ce.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invison-mobile-store/static/js/2.f4b33fb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8410cd60de1bf5a3002f",
-    "url": "/invison-mobile-store/static/js/main.037422b7.chunk.js"
+    "revision": "e43b01ccaae4ef997cda",
+    "url": "/invison-mobile-store/static/js/main.90f94b1f.chunk.js"
   },
   {
     "revision": "f2a134d0a123b721f2a0",
