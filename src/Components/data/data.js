@@ -2,7 +2,7 @@ export const storeProducts = [
 {
     id:1,
     title:"Blackberry  Curve",
-    img: "./images/blackberry.jpg", //for to access images in the src folder you will to import them
+    img: "https://banner2.cleanpng.com/20180328/lhw/kisspng-blackberry-curve-9300-telephone-blackberry-messeng-blackberry-5abb7f32dd8487.8649162715222372349074.jpg", //for to access images in the src folder you will to import them
     price:20,
     company: 'Blackberry',
     info:
