@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
-import {BrowserRouter as Router} from 'react-router-dom'; //do the same in the app.js
+import {HashRouter as Router} from 'react-router-dom'; //do the same in the app.js
 import {ProductProvider}from './Components/context/Context';
 import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
