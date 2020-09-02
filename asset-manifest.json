@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/invison-mobile-store/static/css/main.b5d214ce.chunk.css",
-    "main.js": "/invison-mobile-store/static/js/main.90f94b1f.chunk.js",
-    "main.js.map": "/invison-mobile-store/static/js/main.90f94b1f.chunk.js.map",
+    "main.js": "/invison-mobile-store/static/js/main.cab13970.chunk.js",
+    "main.js.map": "/invison-mobile-store/static/js/main.cab13970.chunk.js.map",
     "runtime-main.js": "/invison-mobile-store/static/js/runtime-main.2cd28ddc.js",
     "runtime-main.js.map": "/invison-mobile-store/static/js/runtime-main.2cd28ddc.js.map",
     "static/css/2.11829350.chunk.css": "/invison-mobile-store/static/css/2.11829350.chunk.css",
     "static/js/2.f4b33fb0.chunk.js": "/invison-mobile-store/static/js/2.f4b33fb0.chunk.js",
     "static/js/2.f4b33fb0.chunk.js.map": "/invison-mobile-store/static/js/2.f4b33fb0.chunk.js.map",
     "index.html": "/invison-mobile-store/index.html",
-    "precache-manifest.5ee1f0072e07097661fd0802f19aa87a.js": "/invison-mobile-store/precache-manifest.5ee1f0072e07097661fd0802f19aa87a.js",
+    "precache-manifest.9de3d62601091d26070184b103d2acd9.js": "/invison-mobile-store/precache-manifest.9de3d62601091d26070184b103d2acd9.js",
     "service-worker.js": "/invison-mobile-store/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/invison-mobile-store/static/css/2.11829350.chunk.css.map",
     "static/css/main.b5d214ce.chunk.css.map": "/invison-mobile-store/static/css/main.b5d214ce.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.f4b33fb0.chunk.js",
     "static/css/main.b5d214ce.chunk.css",
-    "static/js/main.90f94b1f.chunk.js"
+    "static/js/main.cab13970.chunk.js"
   ]
 }
